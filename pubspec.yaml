@@ -29,7 +29,7 @@ dependencies:
   bootpay_webview_flutter_android: ^3.6.2
   bootpay_webview_flutter_wkwebview: ^3.4.1
   uuid: 3.0.7
-  shared_preferences: 2.1.1
+  shared_preferences: ^2.2.0
   js: ^0.6.4
   fluttertoast: 8.2.1
   http: ^1.0.0
